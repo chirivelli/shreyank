@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    background-color: orange;
+}
+
+#hlen {
+    color: red;
+    font-size: 48px;
+}
+#hlsm {
+    color: blue;
+    font-size: 36px;
+}
+.bts {
+    position: float;
+}
